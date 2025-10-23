@@ -2,7 +2,7 @@
 💻 Skilled in Java, Python, C++, JavaScript, SQL, HTML, CSS, and more with experience in full-stack development, data analysis, and IT systems. <br/>
 🚀 I enjoy working on projects that combine creativity and problem-solving, from web applications to data-driven tools. <br/>
 🧠 I’m currently building new projects that push my skills in React, backend integration, and scalable software design. <br/>
-⚡ Outside of coding, I’m into basketball, combat sports, spending time outdoors, and hanging out with family and friends — all things that keep me balanced and motivated. <br/>
+⚡ Outside of coding, I’m into basketball, combat sports, spending time outdoors, and hanging out with family and friends, all things that keep me balanced and motivated. <br/>
 📫 Get in Touch:
 
 Linkedin: https://www.linkedin.com/in/abdulwalik11/
